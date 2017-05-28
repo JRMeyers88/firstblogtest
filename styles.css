@@ -1,4 +1,38 @@
 body {
-	background: blue;
+	color: #5C5C5C;
+	padding: 0 80px;
+}
+
+.main-header {
+	padding-top: 100px;
+	height: 300px;
+}
+
+.main-title {
 	text-align: center;
+	font-size: 5em;
+}
+
+.sub-title {
+	text-align: center;
+	font-size: 2em;
+}
+
+.top-border {
+  border-top: 2px solid #B5B5B5;
+}
+
+.main-footer {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+#subnavbar {
+	background-color: black;
+	height: 25px;
+}
+
+#navlinks {
+	display: block;
 }
